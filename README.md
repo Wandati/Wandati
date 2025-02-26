@@ -6,7 +6,7 @@
 [![GitLab](https://img.shields.io/badge/GitLab-Profile-orange)](https://gitlab.com/wandat2/twn-main)  
 [![Email](https://img.shields.io/badge/Email-Contact-green)](mailto:wandatimarvin23@gmail.com)  
 
-![DevOps Engineer](https://source.unsplash.com/1600x500/?devops,cloud)  
+![DevOps Engineer](https://raw.githubusercontent.com/MarvinWandati/MarvinWandati/main/devops-banner.jpg)  
 
 ---
 
@@ -105,7 +105,7 @@ I’m a **certified DevOps Engineer** with **2+ years of experience**, specializ
 
 ## 📈 GitHub Contributions  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wandati&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Wandati&theme=radical&date_format=M%20j%5B%2C%20Y%5D)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wandati&layout=compact&theme=radical)  
 
@@ -129,5 +129,4 @@ I’m a **certified DevOps Engineer** with **2+ years of experience**, specializ
 
 💡 *"Automate everything. Deploy anywhere. Optimize continuously."*  
 
-🚀 **#DevOps #Kubernetes #CI/CD #AWS #Terraform #Automation**  
-
+🚀 **#DevOps #Kubernetes #CI/CD #AWS #Terraform #Automation** 
