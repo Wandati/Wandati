@@ -6,7 +6,6 @@
 [![GitLab](https://img.shields.io/badge/GitLab-Profile-orange)](https://gitlab.com/wandat2/twn-main)  
 [![Email](https://img.shields.io/badge/Email-Contact-green)](mailto:wandatimarvin23@gmail.com)  
 
-![DevOps Engineer](https://raw.githubusercontent.com/MarvinWandati/MarvinWandati/main/devops-banner.jpg)  
 
 ---
 
