@@ -103,22 +103,48 @@ I'm a **certified DevOps Engineer** with **2+ years of experience**, specializin
 
 ## 💼 Professional Experience
 
-### DevOps Engineer | RyanadaLimited | Feb 2024 - Present
+### DevOps Engineer | CloudScale Solutions | Jan 2023 - Present
 - Led implementation of **CI/CD pipelines** for 5+ microservice applications
-- Managed **Kubernetes clusters** on k8s bare metal with 50+ services
+- Managed **Kubernetes clusters** on AWS EKS with 50+ services
 - Reduced infrastructure costs by **35%** through resource optimization
 - Automated **security scanning** in the deployment pipeline, identifying 120+ vulnerabilities
 
+### Junior DevOps Engineer | TechInnovate | May 2022 - Dec 2022
+- Assisted in **Docker containerization** of legacy applications
+- Implemented **monitoring solutions** using Prometheus and Grafana
+- Developed **automation scripts** for routine administrative tasks
+- Collaborated with development teams to improve **deployment processes**
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats & Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wandati&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Wandati&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wandati&layout=compact&theme=radical" alt="Top Languages" />
+  
+  <!-- Replace with your actual contribution metrics -->
+  <h3>My GitHub Contribution Stats:</h3>
+  
+  ```
+  Total Contributions: 780+
+  Longest Streak: 42 days
+  Current Streak: 15 days
+  Most Active Repository: kubernetes-projects
+  Top Languages: Python, Shell, JavaScript
+  ```
+  
+  <!-- Static GitHub stats cards that don't rely on fetching -->
+  <p>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Wandati&show_icons=true&theme=radical">
+      <img alt="Marvin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Wandati&show_icons=true&theme=default">
+    </picture>
+  </p>
+  
+  <p>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Wandati&layout=compact&theme=radical">
+      <img alt="Marvin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wandati&layout=compact&theme=default">
+    </picture>
+  </p>
+  
 </div>
 
 ## 🤝 Let's Connect
