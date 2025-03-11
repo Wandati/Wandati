@@ -21,7 +21,7 @@ I'm a **certified DevOps Engineer** with **2+ years of experience**, specializin
   <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=flat-square&logo=kubernetes" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat-square&logo=docker" alt="Docker" />
   <img src="https://img.shields.io/badge/Terraform-Infrastructure%20as%20Code-7B42BC?style=flat-square&logo=terraform" alt="Terraform" />
-  <img src="https://img.shields.io/badge/CI%2FCD-Jenkins%20%7C%20GitHub%20Actions-D24939?style=flat-square&logo=jenkins" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/CI%2FCD-Jenkins%20%7C%20GitHub%20Actions%20%7C%20ArgoCD-D24939?style=flat-square&logo=jenkins" alt="CI/CD" />
 </div>
 
 ## 🛠️ Technical Expertise
@@ -47,90 +47,14 @@ I'm a **certified DevOps Engineer** with **2+ years of experience**, specializin
 - **Version Control**: Git, GitHub, GitLab
 - **API Development**: RESTful APIs, API Gateway
 
-## 📌 Featured Projects
-
-### 🚀 **Enterprise MERN Stack DevSecOps Implementation**
-📌 **Tools:** AWS EKS, Terraform, Jenkins, Argo CD, SonarQube, Prometheus
-- Architected and deployed a **secure 3-tier MERN stack application** on AWS **EKS**.
-- Implemented comprehensive **CI/CD pipeline** with **Jenkins & Argo CD**.
-- Integrated **security scanning** with SonarQube, Trivy, and OWASP.
-- **Achievements:**
-  ✅ **45%** improvement in **deployment speed**
-  ✅ **40%** boost in **system reliability**
-  ✅ Reduced **security vulnerabilities by 65%**
-
-### 🌍 **Service Mesh Implementation with Istio**
-📌 **Tools:** Istio, Envoy, Kubernetes, Kiali
-- Deployed **Bookinfo application** with **Istio service mesh architecture**.
-- Implemented **mutual TLS (mTLS)** for **secure service-to-service communication**.
-- Configured **canary deployments** using Virtual Services and Destination Rules.
-- **Achievement:** Achieved **zero-downtime deployments** and **99.9% service availability**
-
-### 📂 **Automated Jenkins Build Log Storage with AWS S3**
-📌 **Tools:** Jenkins, AWS S3, Shell Scripting, AWS Lambda
-- Developed an **automated solution** for Jenkins build log archiving to AWS S3.
-- Implemented **S3 lifecycle management** for cost-efficient storage.
-- Created **serverless functions** to process and analyze build logs.
-- **Achievement:** Reduced **storage costs by 70%** and improved **troubleshooting time by 50%**.
-
-### 🔒 **Kubernetes Policy Enforcement on EKS with Kyverno**
-📌 **Tools:** Kyverno, Kubernetes, AWS EKS
-- Enforced **resource governance policies** across Kubernetes clusters.
-- Standardized **resource limits and requests** for all pods.
-- Implemented **admission controls** for enhanced security compliance.
-- **Achievement:** Improved **resource efficiency by 30%** and **prevented 100% of policy violations**.
-
-### 📊 **Website Monitoring & Recovery System**
-📌 **Tools:** Prometheus, Grafana, Redis, Kubernetes, AWS Lambda
-- Built **real-time monitoring system** with Prometheus and Grafana.
-- Integrated **alerting** for critical system metrics with PagerDuty integration.
-- Developed **auto-recovery mechanisms** for common failure scenarios.
-- **Achievement:** Improved **system reliability by 40%** and **reduced MTTR by 65%**.
-
-## 📜 Certifications
-
-- ✅ **AWS Educate Cloud Certifications (8) | July 2024**
-- ✅ **Certified DevOps Practitioner | TechworldWithNana | July 2024**
-- ✅ **Docker and Kubernetes | Udemy | May 2024**
-- ✅ **Complete Python Mastery | CodeWithMosh | April 2024**
-
-## 🎓 Education
-
-- **TechworldWithNana** | DevOps Bootcamp | April – July 2024
-- **Moringa School** | Software Engineering | May – Nov 2023
-- **JKUAT** | BSc in Information Technology | May 2020 – Dec 2022
-  - 🎖️ **Second Class Upper Division**
-
-## 💼 Professional Experience
-
-### DevOps Engineer | CloudScale Solutions | Jan 2023 - Present
-- Led implementation of **CI/CD pipelines** for 5+ microservice applications
-- Managed **Kubernetes clusters** on AWS EKS with 50+ services
-- Reduced infrastructure costs by **35%** through resource optimization
-- Automated **security scanning** in the deployment pipeline, identifying 120+ vulnerabilities
-
-### Junior DevOps Engineer | TechInnovate | May 2022 - Dec 2022
-- Assisted in **Docker containerization** of legacy applications
-- Implemented **monitoring solutions** using Prometheus and Grafana
-- Developed **automation scripts** for routine administrative tasks
-- Collaborated with development teams to improve **deployment processes**
-
 ## 📈 GitHub Stats & Contributions
 
 <div align="center">
-  
-  <!-- Replace with your actual contribution metrics -->
-  <h3>My GitHub Contribution Stats:</h3>
-  
-  ```
-  Total Contributions: 780+
-  Longest Streak: 42 days
-  Current Streak: 15 days
-  Most Active Repository: kubernetes-projects
-  Top Languages: Python, Shell, JavaScript
-  ```
-  
-  <!-- Static GitHub stats cards that don't rely on fetching -->
+  <h3>My GitHub Contribution Graph:</h3>
+  <img src="https://ghchart.rshah.org/36BCF7/Wandati" alt="GitHub Contributions Graph" />
+</div>
+
+<div align="center">
   <p>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Wandati&show_icons=true&theme=radical">
@@ -144,30 +68,24 @@ I'm a **certified DevOps Engineer** with **2+ years of experience**, specializin
       <img alt="Marvin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wandati&layout=compact&theme=default">
     </picture>
   </p>
-  
 </div>
 
 ## 🤝 Let's Connect
 
 <div align="center">
-  
   🚀 **Looking for exciting DevOps opportunities or collaborations? Let's connect!**
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marvin-wandati/)
   [![GitLab](https://img.shields.io/badge/GitLab-Profile-orange?style=for-the-badge&logo=gitlab)](https://gitlab.com/wandat2/)
   [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Wandati)
   [![Email](https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail)](mailto:wandatimarvin23@gmail.com)
-  
 </div>
 
 ---
 
 <div align="center">
-  
   💡 *"Automate everything. Deploy anywhere. Optimize continuously."*
-  
   <img src="https://komarev.com/ghpvc/?username=Wandati&style=flat-square&color=blue" alt="Profile views" />
-  
 </div>
 
 🚀 **#DevOps #Kubernetes #CI/CD #AWS #Terraform #Automation**
