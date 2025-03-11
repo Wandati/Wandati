@@ -5,11 +5,9 @@
 </div>
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marvin-wandati/)
-  [![GitLab](https://img.shields.io/badge/GitLab-Profile-orange?style=for-the-badge&logo=gitlab)](https://gitlab.com/wandat2/twn-main)
-  [![Email](https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail)](mailto:wandatimarvin23@gmail.com)
-  
+  <a href="https://www.linkedin.com/in/marvin-wandati/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://gitlab.com/wandat2/twn-main"><img src="https://img.shields.io/badge/GitLab-Profile-orange?style=for-the-badge&logo=gitlab" alt="GitLab" /></a>
+  <a href="mailto:wandatimarvin23@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail" alt="Email" /></a>
 </div>
 
 ## 👨‍💻 About Me
@@ -26,66 +24,87 @@ I'm a **certified DevOps Engineer** with **2+ years of experience**, specializin
 
 ## 🛠️ Technical Expertise
 
-### ☁️ **Cloud & Infrastructure**
-- **AWS Services**: EKS, EC2, S3, CloudFormation, Lambda, IAM, VPC, Route53
-- **Other Cloud Platforms**: Digital Ocean, Linode
-- **Infrastructure as Code**: Terraform, Ansible, AWS CloudFormation
-- **Operating Systems**: Linux (Ubuntu, CentOS, Amazon Linux), Windows Server
-
-### 🏗️ **Containerization & Orchestration**
-- **Containers**: Docker, Docker Compose, Container Registry (ECR, DockerHub)
-- **Orchestration**: Kubernetes (K8s), Helm, EKS
-- **Service Mesh**: Istio, Envoy
-
-### 🔄 **CI/CD & DevSecOps**
-- **Pipeline Tools**: Jenkins, GitHub Actions, GitLab CI/CD, Argo CD
-- **Security Scanning**: Trivy, SonarQube, OWASP Dependency Check, AWS Security Hub
-- **Monitoring & Observability**: Prometheus, Grafana, ELK Stack, Jaeger, CloudWatch
-
-### 💻 **Development & Automation**
-- **Scripting & Automation**: Python, Bash, Shell Scripting, PowerShell
-- **Version Control**: Git, GitHub, GitLab
-- **API Development**: RESTful APIs, API Gateway
+<table>
+  <tr>
+    <td width="50%">
+      <h3>☁️ Cloud & Infrastructure</h3>
+      <ul>
+        <li><strong>AWS Services</strong>: EKS, EC2, S3, CloudFormation, Lambda, IAM, VPC, Route53</li>
+        <li><strong>Other Cloud Platforms</strong>: Digital Ocean, Linode</li>
+        <li><strong>Infrastructure as Code</strong>: Terraform, Ansible, AWS CloudFormation</li>
+        <li><strong>Operating Systems</strong>: Linux (Ubuntu, CentOS, Amazon Linux), Windows Server</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🏗️ Containerization & Orchestration</h3>
+      <ul>
+        <li><strong>Containers</strong>: Docker, Docker Compose, Container Registry (ECR, DockerHub)</li>
+        <li><strong>Orchestration</strong>: Kubernetes (K8s), Helm, EKS</li>
+        <li><strong>Service Mesh</strong>: Istio, Envoy</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🔄 CI/CD & DevSecOps</h3>
+      <ul>
+        <li><strong>Pipeline Tools</strong>: Jenkins, GitHub Actions, GitLab CI/CD, Argo CD</li>
+        <li><strong>Security Scanning</strong>: Trivy, SonarQube, OWASP Dependency Check, AWS Security Hub</li>
+        <li><strong>Monitoring & Observability</strong>: Prometheus, Grafana, ELK Stack, Jaeger, CloudWatch</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>💻 Development & Automation</h3>
+      <ul>
+        <li><strong>Scripting & Automation</strong>: Python, Bash, Shell Scripting, PowerShell</li>
+        <li><strong>Version Control</strong>: Git, GitHub, GitLab</li>
+        <li><strong>API Development</strong>: RESTful APIs, API Gateway</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## 📈 GitHub Stats & Contributions
 
 <div align="center">
-  <h3>My GitHub Contribution Graph:</h3>
-  <img src="https://ghchart.rshah.org/36BCF7/Wandati" alt="GitHub Contributions Graph" />
-</div>
-
-<div align="center">
-  <p>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Wandati&show_icons=true&theme=radical">
-      <img alt="Marvin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Wandati&show_icons=true&theme=default">
-    </picture>
-  </p>
+  <img src="https://ghchart.rshah.org/36BCF7/Wandati" alt="GitHub Contributions Graph" width="100%" />
   
-  <p>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Wandati&layout=compact&theme=radical">
-      <img alt="Marvin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wandati&layout=compact&theme=default">
-    </picture>
-  </p>
+  <table>
+    <tr>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Wandati&show_icons=true&theme=radical">
+          <img alt="Marvin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Wandati&show_icons=true&theme=default" width="100%">
+        </picture>
+      </td>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Wandati&layout=compact&theme=radical">
+          <img alt="Marvin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wandati&layout=compact&theme=default" width="100%">
+        </picture>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 🤝 Let's Connect
 
 <div align="center">
-  🚀 **Looking for exciting DevOps opportunities or collaborations? Let's connect!**
+  <p>🚀 <strong>Looking for exciting DevOps opportunities or collaborations? Let's connect!</strong></p>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marvin-wandati/)
-  [![GitLab](https://img.shields.io/badge/GitLab-Profile-orange?style=for-the-badge&logo=gitlab)](https://gitlab.com/wandat2/)
-  [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Wandati)
-  [![Email](https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail)](mailto:wandatimarvin23@gmail.com)
+  <a href="https://www.linkedin.com/in/marvin-wandati/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://gitlab.com/wandat2/"><img src="https://img.shields.io/badge/GitLab-Profile-orange?style=for-the-badge&logo=gitlab" alt="GitLab" /></a>
+  <a href="https://github.com/Wandati"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="mailto:wandatimarvin23@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail" alt="Email" /></a>
 </div>
 
 ---
 
 <div align="center">
-  💡 *"Automate everything. Deploy anywhere. Optimize continuously."*
+  <p>💡 <em>"Automate everything. Deploy anywhere. Optimize continuously."</em></p>
   <img src="https://komarev.com/ghpvc/?username=Wandati&style=flat-square&color=blue" alt="Profile views" />
 </div>
 
-🚀 **#DevOps #Kubernetes #CI/CD #AWS #Terraform #Automation**
+<div align="center">
+  <p>🚀 <strong>#DevOps #Kubernetes #CI/CD #AWS #Terraform #Automation</strong></p>
+</div>
